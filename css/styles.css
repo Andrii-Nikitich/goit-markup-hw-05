@@ -475,6 +475,49 @@ img {
 .footer-three-svg {
   fill: #f4f4fd;
 }
+
+.footer-form {
+  gap: 62.5;
+}
+.fotter-form-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #fff;
+  margin-bottom: 16px;
+}
+.footer-ff {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-form-button {
+  border-radius: 4px;
+  padding: 8px 24px;
+  width: 165px;
+  height: 40px;
+  background: #4d5ae5;
+  cursor: pointer;
+  border: none;
+}
+.footer-form-icon {
+  fill: #fff;
+}
+.footer-input {
+  border: 1px solid #fff;
+  border-radius: 4px;
+  width: 264px;
+  height: 40px;
+  background: transparent;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  margin-top: 20px;
+  padding-left: 16px;
+  padding-right: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
 /* footer */
 
 .backdrop {
@@ -615,40 +658,4 @@ img {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
-}
-.footer-form {
-  gap: 62.5;
-}
-.fotter-form-text {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #fff;
-}
-
-.footer-form-button {
-  border-radius: 4px;
-  padding: 8px 24px;
-  width: 165px;
-  height: 40px;
-  background: #4d5ae5;
-  cursor: pointer;
-  border: none;
-}
-.footer-form-icon {
-  fill: #fff;
-}
-.footer-input {
-  border: 1px solid #fff;
-  border-radius: 4px;
-  width: 264px;
-  height: 40px;
-  background: transparent;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  margin-top: 20px;
-  padding-left: 16px;
-  padding-right: 24px;
-  padding-top: 8px;
-  padding-bottom: 8px;
 }
